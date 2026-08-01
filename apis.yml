@@ -1,9 +1,26 @@
 aid: siena
 name: Siena
-description: 'Siena is a company surfaced as a portfolio company of sierra-ventures and added to the API
-  Evangelist network as a stub for enrichment. Sector: ai. This profile is a lead awaiting the enrichment
-  pipeline.'
+description: >-
+  Siena AI is an empathic AI agent platform built for commerce brands. It combines
+  AI automation with human empathy to handle customer service across email, chat,
+  SMS, social, and WhatsApp, and integrates with Shopify, Gorgias, Zendesk,
+  Kustomer, Recharge, Klaviyo and 20+ commerce tools. Its agents cover support,
+  shopping, reviews, QA, order tracking, and post-purchase workflows, letting
+  brands automate 60-80% of support tickets while preserving brand voice. Siena is
+  backed by Sierra Ventures and holds SOC 2 Type II, GDPR, CPRA, and HIPAA compliance.
 url: https://raw.githubusercontent.com/api-evangelist/siena/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://framerusercontent.com/assets/FHZo6GH2CeM1egfYU9t6ZdbpY.jpg
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -12,10 +29,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
-- Ai
+- AI
+- AI Agents
+- Customer Service
+- Customer Experience
+- Conversational AI
+- Ecommerce
+- Support Automation
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +48,38 @@ maintainers:
 common:
 - type: Website
   url: https://siena.cx/
+- type: Documentation
+  url: https://docs.siena.cx/
+- type: Pricing
+  url: https://www.siena.cx/pricing
+- type: Blog
+  url: https://www.siena.cx/blog
+- type: Login
+  url: https://app.siena.cx/
+- type: TermsOfService
+  url: https://www.siena.cx/terms-of-service
+- type: PrivacyPolicy
+  url: https://www.siena.cx/privacy-policy
+- type: Integrations
+  url: https://www.siena.cx/integrations
+- type: StatusPage
+  url: https://status.siena.cx/
+- type: LLMsTxt
+  url: llms/siena-llms.txt
+- type: DomainSecurity
+  url: security/siena-domain-security.yml
+- type: Lifecycle
+  url: lifecycle/siena-lifecycle.yml
+- type: TrustCenter
+  url: security/siena-trust-center.yml
+- type: Compliance
+  url: https://sienaai.trust.site/
+- type: VulnerabilityDisclosure
+  url: security/siena-vulnerability-disclosure.yml
+- type: Security
+  url: security/siena-vulnerability-disclosure.yml
+x-enrichment:
+  date: '2026-07-21'
+  status: enriched
+  artifacts_added: 6
+  pass: local-v1

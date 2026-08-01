@@ -1,0 +1,143 @@
+# Siena AI
+
+> Siena is an empathic AI agent platform built for commerce brands. It combines AI automation with human empathy to handle customer service across email, chat, SMS, social, and WhatsApp — fully integrated with Shopify, Gorgias, Zendesk, Kustomer, and 20+ commerce tools. Used by brands like HexClad, Momentous, and True Sea Moss to automate 60–80% of support tickets.
+
+## Product
+
+- [Siena AI — Empathic AI Agents for Commerce](https://www.siena.cx/): AI-native customer experience platform that automates support while preserving brand voice and empathy.
+- [Shopping Agent](https://www.siena.cx/shopping-agent): Turns customer conversations into conversions — answers product questions, makes recommendations, and drives revenue.
+- [QA Agent](https://www.siena.cx/qa-agent): Automated conversation scoring for CX teams — measures brand voice, compliance, and resolution rate across 100% of interactions.
+- [Siena Memory](https://www.siena.cx/memory): Agentic brand intelligence layer that builds customer profiles across every interaction for personalized support at scale.
+- [Reviews Agent](https://www.siena.cx/ai-review-management): Automates review moderation and crafts authentic, personalized replies to scale customer trust.
+- [Order Tracking](https://www.siena.cx/order-tracking): Automated order status responses integrated with Shopify and post-purchase tools — resolves WISMO tickets instantly.
+- [Video](https://www.siena.cx/video): Siena watches, understands, and acts on customer videos — automates warranty claims, visual troubleshooting, and product recommendations.
+
+## Pricing
+
+- [Pricing](https://www.siena.cx/pricing): Conversation-based pricing model tied to ticket volume and team structure — no outcome-based fees that misalign incentives.
+
+## Integrations
+
+- [Shopify](https://www.siena.cx/integrations/shopify): Real-time order access to automate support, process order changes, and streamline e-commerce operations.
+- [Gorgias](https://www.siena.cx/integrations/gorgias-helpdesk): Automates e-commerce support tickets and conversation handling inside Gorgias.
+- [Zendesk](https://www.siena.cx/integrations/zendesk): Automates ticket responses and conversation management within Zendesk.
+- [Kustomer](https://www.siena.cx/integrations/kustomer): Automates conversations across all channels with access to unified customer profiles.
+- [Intercom](https://www.siena.cx/integrations/intercom): Automates ticket responses and conversation management across the full customer base.
+- [Gladly](https://www.siena.cx/integrations/gladly): Automated conversation management across all customer channels via Gladly.
+- [Dixa](https://www.siena.cx/integrations/dixa): Automated conversation management across every customer channel.
+- [Klaviyo](https://www.siena.cx/integrations/klaviyo): Marketing data access to automate campaign inquiries and personalize support based on engagement history.
+- [Recharge](https://www.siena.cx/integrations/recharge): Automates subscription management — skip shipments, update addresses, modify frequency.
+- [Loop Returns](https://www.siena.cx/integrations/loop-returns): Automates the full returns process from request handling to status tracking.
+- [Wonderment](https://www.siena.cx/integrations/wonderment): Real-time order tracking data to automate shipment updates and resolve delivery issues proactively.
+- [Yotpo](https://www.siena.cx/integrations/yotpo): Automates review management and loyalty program support.
+- [Okendo](https://www.siena.cx/integrations/okendo): Automates review moderation and responses.
+- [Ordergroove](https://www.siena.cx/integrations/ordergroove): Automated subscription updates, address changes, and order modifications.
+- [Skio](https://www.siena.cx/integrations/skio): Automated subscription management — update orders, modify subscriptions, process changes instantly.
+- [Smartrr](https://www.siena.cx/integrations/smartrr): Automated subscription handling for order modifications and subscription changes.
+- [Stay AI](https://www.siena.cx/integrations/stay-ai): Automates subscription management and processes retention offers instantly.
+- [Prive](https://www.siena.cx/integrations/prive-recurly-commerce): Automates subscription changes, cancellations, and product swaps.
+- [Fulfil](https://www.siena.cx/integrations/fulfil): Real-time order and customer data access for automated order management.
+- [Stripe](https://www.siena.cx/integrations/stripe): Automated payment handling, subscription updates, and invoice management.
+- [Slack](https://www.siena.cx/integrations/slack): Automates Slack inquiries and routes real-time customer conversation updates to your workspace.
+- [Google Docs](https://www.siena.cx/integrations/google-docs): Connects documentation as a knowledge source for automated, policy-aligned responses.
+- [Google Sheets](https://www.siena.cx/integrations/google-sheets): Connects spreadsheets as a live knowledge source for Siena.
+- [Custom Integration](https://www.siena.cx/integrations/your-custom-integration): Connect Siena to any API — execute actions, pull real-time data, and access external systems during conversations.
+
+## Compare
+
+- [Siena vs Gorgias AI Suite](https://www.siena.cx/compare/siena-ai-vs-gorgias-ai): AI-native infrastructure vs. add-on — how Siena compares on memory, automation depth, and commerce fit.
+- [Siena vs Kustomer AI](https://www.siena.cx/compare/siena-ai-vs-kustomer-ai): Ecommerce-specific CX vs. general support — end-to-end order, returns, and shopping coverage.
+
+## Customer Stories
+
+- [Western Rise: 20hr → 36sec Response Time](https://www.siena.cx/customer-stories/western-rise-ai-customer-service-response-time): Cut response times from 20 hours to 36 seconds while achieving 98% customer satisfaction.
+- [Momentous: 100% CSAT, 90% Faster Responses](https://www.siena.cx/customer-stories/momentous-using-ai-customer-service-agent): AI support agent 'Sam' handles 60% of inquiries with 100% CSAT.
+- [HexClad: 65% CX Efficiency Boost](https://www.siena.cx/customer-stories/hexclad-customer-service-automation): Boosted customer service efficiency by 65% using automation at scale.
+- [True Sea Moss: 80% Automation, 4 days → 1 minute](https://www.siena.cx/customer-stories/true-sea-moss-response-time-improvement): Cut response time from 4 days to 1 minute and automated 80% of tickets.
+- [Comfrt: 65% AI Automation, 41K → 125K Monthly Tickets](https://www.siena.cx/customer-stories/comfrt-ai-customer-support-siena): Scaled support threefold with 65% AI automation.
+- [Bad Birdie: 80% Automation in One Month](https://www.siena.cx/customer-stories/bad-birdie-customer-service-automation): Reached 80% automation within the first month of deploying Siena.
+- [Fresh Clean Threads: 91% CSAT](https://www.siena.cx/customer-stories/fresh-clean-threads-csat-boost): Automated tier-1 support while hitting 91% CSAT at high volume.
+- [EHPLabs: 42% More Tickets, 43% Lower Cost](https://www.siena.cx/customer-stories/ehplabs): Handles 42% more tickets at 43% lower cost — response times dropped from 20 hours to 5 minutes.
+- [Coterie: 65% Email Automation, CX as Revenue Engine](https://www.siena.cx/customer-stories/siena-ai-customer-service-automation-coterie): Automated 65% of email queries and turned CX into a revenue-driving service.
+- [Dossier: Black Friday with Zero Panic](https://www.siena.cx/customer-stories/dossier-handled-black-friday-customer-service-zero-panic): Scaled globally through peak season without adding headcount.
+- [Aday: 3–5 Min Response Times, 4.88 CSAT](https://www.siena.cx/customer-stories/aday-scaling-customer-service-with-ai): Full-time AI coverage with near-perfect satisfaction scores.
+- [Fuel Meals: 50% Cost Reduction, 3-Min Response](https://www.siena.cx/customer-stories/fuel-meals): Cut costs in half and transformed CX into a retention driver.
+- [Threadheads: Dedicated AI Over Help Desk Add-Ons](https://www.siena.cx/customer-stories/threadheads-chooses-dedicated-ai-customer-service): Chose AI-native over help desk AI to maintain personalization at scale.
+- [Earth Breeze: Scaling Without Losing Human Touch](https://www.siena.cx/customer-stories/earth-breeze-scaling-customer-service-with-ai): From AI skeptic to advocate — scaled support while preserving brand identity.
+- [Simple Modern: 79% Ticket Automation](https://www.siena.cx/customer-stories/simple-modern): Automated 79% of service tickets with humanized AI replies.
+- [Subtl Beauty: 41 Hours Saved Per Week](https://www.siena.cx/customer-stories/subtl-beauty): CX team saves 41 hours per week, enabling focus on high-impact work.
+- [Goody: 3x Conversation Volume, Same Quality](https://www.siena.cx/customer-stories/goody-faster-customer-service-response): Tripled conversation volume while maintaining top-tier support quality.
+- [Andar: 50%+ Ticket Automation, 98% Positive Rating](https://www.siena.cx/customer-stories/andar): Automated over half of support tickets with a 98% positive response rating.
+- [Equip Foods: 24/7 Personalized Support](https://www.siena.cx/customer-stories/equip-foods-scaling-personalized-customer-service): Faster replies, consistent tone, and round-the-clock support without losing human touch.
+- [Canopy: 36% Automation for Seasonal Demand](https://www.siena.cx/customer-stories/canopy): Automated over 36% of support requests to match seasonal capacity swings.
+- [Kitsch: 2–3 Hour Resolution Time Reduction](https://www.siena.cx/customer-stories/kitsch): Cut resolution time by 2–3 hours, freeing agents for high-touch tickets.
+- [MUD\WTR: CSAT 4.8+](https://www.siena.cx/customer-stories/mud-wtr): Boosted CSAT to 4.8+ while scaling support for coffee alternative brand.
+- [Bokksu: Global Subscription Support](https://www.siena.cx/customer-stories/bokksu): AI-powered support for a global subscription box brand across multiple languages.
+- [Prose: Personalized Beauty CX](https://www.siena.cx/customer-stories/prose): Blends tailored beauty products with bespoke AI customer experiences.
+- [immi: Scaling Without Sacrificing Brand Voice](https://www.siena.cx/customer-stories/immi): Maintains efficiency and team peace of mind while scaling CX.
+- [Loftie: Scaling Without New Hires](https://www.siena.cx/customer-stories/loftie): Lean family-owned brand scales support without headcount growth.
+- [FÜM: Hours to Minutes Response Times](https://www.siena.cx/customer-stories/fum-scales-support-while-maintaining-human-connection): Transformed CX response times while maintaining human connection.
+- [Verb Energy: 49% Ticket Automation](https://www.siena.cx/customer-stories/verb-energy): Automated 49% of tickets for an energy bar brand with a lean CX team.
+- [Douxds: CX as a Growth Driver](https://www.siena.cx/customer-stories/douxds): Turned customer experience into a measurable growth lever.
+- [Terra Kaffe: Premium CX at Lower Cost](https://www.siena.cx/customer-stories/terra-kaffe): Cost savings while maintaining a premium, personalized customer experience.
+- [Pluto: Efficient, Feel-Good Support](https://www.siena.cx/customer-stories/pluto): Scales efficient support without compromising cost or quality.
+- [Superfoods Company: 2-Hour Faster Resolutions](https://www.siena.cx/customer-stories/superfoods-company): Cut ticket resolution times by 2 hours and scaled stress-free.
+- [Everyday Dose: Automating Without Sacrificing Brand Voice](https://www.siena.cx/customer-stories/everday-dose): Automates shopper and social inquiries without losing brand identity.
+- [Yumwoof: Fast Onboarding, Strategic Growth](https://www.siena.cx/customer-stories/yumwoof): Rapid AI automation enabled founders to refocus on strategic growth.
+
+## Blog
+
+- [Siena AI Agent vs. Chatbots: 11 Reasons CX Teams Choose Siena](https://www.siena.cx/blog/siena-ai-agent-vs-chatbots): Why AI agents outperform rule-based chatbots for commerce customer service.
+- [Dedicated AI vs. Help Desk AI Add-Ons](https://www.siena.cx/blog/dedicated-ai-vs-help-desk-ai-add-ons): Why purpose-built AI platforms deliver deeper automation than bolt-on help desk features.
+- [Beyond AI Ticketing: Build Loyalty, Not Just Close Cases](https://www.siena.cx/blog/ai-ticketing-vs-relationship-based-support): Why relationship-first AI support builds long-term loyalty that ticket-closing systems miss.
+- [AI in Customer Service: 10 Transformations Coming in 2025](https://www.siena.cx/blog/how-ai-in-customer-service-helps): From intelligent routing to revenue generation — 10 ways AI is redefining CX.
+- [Legacy Software vs Native AI: Why It Matters for Enterprise CX](https://www.siena.cx/blog/legacy-software-vs-native-ai): How AI-native platforms unify context, memory, and workflows vs. legacy add-on approaches.
+- [AI Implementation for Enterprise: Siena's 6-Week Blueprint](https://www.siena.cx/blog/ai-implementation-for-enterprise-siena-blueprint): Proven milestones and timelines to accelerate enterprise AI deployment.
+- [AI Agent in Customer Support: Top 7 Challenges and Solutions](https://www.siena.cx/blog/7-challenges-implementing-an-ai-agent-in-customer-support): Practical strategies for overcoming the most common AI agent implementation challenges.
+- [Preventing AI Hallucinations in Customer Support](https://www.siena.cx/blog/preventing-ai-hallucinations-in-customer-support-a-practical-approach): Strategies using clear instructions, data integration, and escalation to manage AI accuracy.
+- [Why Outcome-Based Pricing in AI Hurts Customer Service](https://www.siena.cx/blog/conversation-vs-outcome-based-pricing-ai-agent): How outcome-based pricing creates mistrust and limits automation — and why conversation pricing works better.
+- [Testing AI Agents That Think for Themselves](https://www.siena.cx/blog/testing-ai-agents-playground): How to stress-test generative AI agents with real intelligence, not chatbot logic.
+- [AI Social Media Agents: The Untapped Opportunity in CS](https://www.siena.cx/blog/ai-social-media-agent): How AI handles DMs, comments, and social support at scale without sacrificing personalization.
+- [How Siena Transforms WhatsApp into AI-Powered Concierge](https://www.siena.cx/blog/how-siena-transforms-whatsapp-support-the-complete-guide-to-ai-powered-concierge): Turning WhatsApp into a revenue-driving, AI-powered support channel.
+- [Siena's AI Reasoning Powers Trusted Enterprise CX](https://www.siena.cx/blog/introducing-siena-ai-reasoning-with-benefits-for-enterprise): Transparent, explainable AI reasoning for enterprise-grade customer experience.
+- [AI Review Management That's Personal at Scale](https://www.siena.cx/blog/introducing-ai-review-management): How Siena personalizes every review response and surfaces insights across teams.
+- [The AI That Builds AI: Siena's Automation Assistant](https://www.siena.cx/blog/ai-workflow-automation): Build AI workflows without prompt engineering — turn business rules into automation conversationally.
+- [Siena Intelligent Follow-ups: The First Step Toward Proactive CX](https://www.siena.cx/blog/intelligent-follow-ups-for-proactive-customer-experiences): Proactive AI agent that manages conversations to completion and eliminates abandoned tickets.
+- [Train Your AI Agent with Knowledge Sources](https://www.siena.cx/blog/knowledge-sources): How to connect real-time data to Siena for accurate, personalized support.
+- [Customer Service Emotional Intelligence: What It Is, Why It Matters, and How to Build It](https://www.siena.cx/blog/customer-service-emotional-intelligence): The five components of CX emotional intelligence and what AI changes about measuring them.
+- [HexClad's AI Playbook: CX Strategy That Works](https://www.siena.cx/blog/blog-hexclad-ai-playbook-cx-results): How HexClad went from 10% to mid-90s CSAT — the strategy, team restructure, and results behind their AI transformation.
+- [Siena's March AI Lab in NYC](https://www.siena.cx/blog/siena-march-2026-ai-lab-nyc): What CX leaders from top ecommerce brands are actually thinking about AI — insights from Siena's March 2026 gathering.
+
+## Product Updates
+
+- [Reviews Agent Release](https://www.siena.cx/product-updates/ai-reviews-agent-management): End-to-end review management with automated responses, moderation, and intelligence gathering.
+- [App Store: Manage All Integrations in One Place](https://www.siena.cx/product-updates/app-store-siena-ai-integrations): Dozens of pre-built connectors plus custom integration tools in one hub.
+- [Automated Shopify Discount Code Generation](https://www.siena.cx/product-updates/automated-shopify-discount-code-generation): Automated discount codes for compensation, cart recovery, and promotions via Shopify.
+- [Conversation Graph](https://www.siena.cx/product-updates/conversation-graph): Support tickets become intelligent knowledge with quality controls and continuous learning.
+- [Price Matching](https://www.siena.cx/product-updates/price-matching): Automatic price adjustments with purchase verification, difference calculation, and partial refunds.
+- [Custom Chat Embed and Trigger](https://www.siena.cx/product-updates/siena-chat-embed-and-customize): Add chat triggers anywhere on-site with pre-filled context for shipping, returns, and more.
+- [Siena Memory Release](https://www.siena.cx/product-updates/siena-memory): Customer detail capture across interactions, creating real-time profiles for support and marketing.
+- [Video Support Capability](https://www.siena.cx/product-updates/video-capability): Siena understands customer videos for warranty claims, troubleshooting, and product questions.
+
+## Company
+
+- [About Siena AI](https://www.siena.cx/about-us): Mission-driven team building empathic AI for commerce, backed by leading investors.
+- [Customers](https://www.siena.cx/customers): Overview of brands using Siena to transform customer experience.
+- [Partner with Siena](https://www.siena.cx/partner-with-siena): Partner program for agencies and technology partners in the commerce CX ecosystem.
+- [Community](https://www.siena.cx/community): Private community hub for CX and AI practitioners.
+- [Events](https://www.siena.cx/events): Upcoming Siena AI events for commerce brands.
+
+## Optional
+
+- [AI-Powered SMS with Siena x Klaviyo](https://www.siena.cx/blog/ai-agent-sms-integration-klaviyo): Automated, personalized SMS replies through Klaviyo integration.
+- [How to Enable Collaborative AI Routing](https://www.siena.cx/blog/ai-routing-human-team-collaborative-ai): Siena's collaborative AI setting for smart escalation to human agents.
+- [How to Get Buy-In from Your CS Team for AI](https://www.siena.cx/blog/how-to-get-buy-in-from-your-customer-support-team-for-ai): Seven strategies for earning team trust during AI implementation.
+- [Siena AI Raises $4.7M](https://www.siena.cx/blog/seed): Seed funding announcement — empathetic AI backed by leading investors.
+- [Siena AI Achieves SOC-2 Certification](https://www.siena.cx/blog/soc-2-certification): Data security and integrity commitment through SOC-2 certification.
+- [Siena AI GDPR and CPRA Compliance](https://www.siena.cx/blog/siena-ai-gdpr-cpra-compliance): GDPR, CPRA, and SOC-2 compliance for enterprise data protection.
+- [Siena AI Is Now HIPAA Compliant](https://www.siena.cx/blog/siena-ai-is-now-hipaa-compliant): HIPAA compliance for healthcare, wellness, and regulated industries.
+- [Siena Copilot: Empower CS Agents](https://www.siena.cx/blog/copilot): Reduce resolution time and scale personalization with in-helpdesk AI copilot.
+- [Empower CS Agents with Siena Copilot](https://www.siena.cx/blog/copilot): In-helpdesk AI copilot for reducing resolution time and scaling agent personalization.
+- [Siena Academy: AI Certification for CX Leaders](https://www.siena.cx/blog/siena-academy-for-customer-experience): First AI certification program for customer experience leaders.
+- [No-Code Custom Integrations](https://www.siena.cx/blog/new-custom-integrations-in-siena): Connect Siena with any tool in just a few clicks — no code required.
+- [Validate Automations with Test Runs](https://www.siena.cx/blog/validate-siena-ai-automations-with-test-runs): Test and validate AI automations before launch to ensure brand consistency.

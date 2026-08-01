@@ -1,0 +1,33 @@
+generated: '2026-07-21'
+method: searched
+probe: true
+url: https://sienaai.trust.site/
+certifications:
+  - SOC 2 Type II
+  - GDPR
+  - CPRA
+  - HIPAA
+soc2_reports:
+  - 'SOC 2 Type II 2023'
+  - 'SOC 2 Type II 2024'
+  - 'SOC 2 Type II 2025'
+security_contact: security@siena.cx
+subprocessors:
+  - {name: OpenAI, category: Artificial Intelligence, region: USA}
+  - {name: Slack, category: Collaboration & Productivity, region: USA}
+  - {name: AWS, category: IT infrastructure, region: USA}
+  - {name: Twilio, category: Telephony, region: USA}
+  - {name: Anthropic, category: Development software, region: USA}
+control_categories:
+  - product security
+  - data encryption at rest
+  - network security
+  - endpoint protection
+  - corporate security governance
+evidence:
+  - source: https://sienaai.trust.site/
+    keywords: [soc 2, gdpr, cpra, hipaa, trust center, subprocessors]
+  - source: https://www.siena.cx/blog/soc-2-certification
+    keywords: [soc-2 certification]
+  - source: https://www.siena.cx/blog/siena-ai-is-now-hipaa-compliant
+    keywords: [hipaa compliant]

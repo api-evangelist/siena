@@ -1,0 +1,19 @@
+generated: '2026-07-21'
+method: searched
+source: live probes of https://siena.cx/.well-known/*
+host: https://siena.cx
+notes: >-
+  All probed /.well-known/ paths on siena.cx 308-redirect to www.siena.cx and
+  return 404. Siena publishes no machine-readable well-known discovery surface.
+  Recorded as valid negative result (no WellKnown pointer emitted).
+documents:
+  - path: /.well-known/security.txt
+    status: 404
+  - path: /.well-known/openid-configuration
+    status: 404
+  - path: /.well-known/oauth-authorization-server
+    status: 404
+  - path: /.well-known/api-catalog
+    status: 404
+  - path: /.well-known/ai-plugin.json
+    status: 404

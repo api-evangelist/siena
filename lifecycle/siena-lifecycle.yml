@@ -1,0 +1,12 @@
+generated: '2026-07-21'
+method: searched
+source: https://status.siena.cx/
+status_page: https://status.siena.cx/
+versioning: null
+deprecation: null
+sla: null
+notes: >-
+  Siena operates a public status page (status.siena.cx, "Siena AI Status", with
+  uptime/incident history). No public API versioning policy, deprecation policy,
+  or Sunset/Deprecation header support was found — Siena exposes a SaaS product and
+  connector platform rather than a documented public REST API surface.
