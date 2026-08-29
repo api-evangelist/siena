@@ -9,6 +9,17 @@ description: >-
   brands automate 60-80% of support tickets while preserving brand voice. Siena is
   backed by Sierra Ventures and holds SOC 2 Type II, GDPR, CPRA, and HIPAA compliance.
 url: https://raw.githubusercontent.com/api-evangelist/siena/refs/heads/main/apis.yml
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
