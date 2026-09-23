@@ -2,11 +2,12 @@ generated: '2026-07-21'
 method: searched
 source: live probes of https://siena.cx/.well-known/*
 host: https://siena.cx
-notes: >-
-  All probed /.well-known/ paths on siena.cx 308-redirect to www.siena.cx and
-  return 404. Siena publishes no machine-readable well-known discovery surface.
-  Recorded as valid negative result (no WellKnown pointer emitted).
-documents:
+notes: All probed /.well-known/ paths on siena.cx 308-redirect to www.siena.cx and return 404. Siena publishes
+  no machine-readable well-known discovery surface. Recorded as valid negative result (no WellKnown pointer
+  emitted).
+hosts:
+- host: https://siena.cx
+  documents:
   - path: /.well-known/security.txt
     status: 404
   - path: /.well-known/openid-configuration
@@ -17,3 +18,8 @@ documents:
     status: 404
   - path: /.well-known/ai-plugin.json
     status: 404
+x-shape-fix:
+  converted: '2026-08-20'
+  from: documents
+  note: Rewritten into hosts[] -> documents[], the only shape well_known_docs() in score.rb reads. A served
+    .well-known surface recorded in any other shape scores as absent.
