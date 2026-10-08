@@ -1,0 +1,38 @@
+# Pricing transcribed from the provider's own page — see provenance. Numbers are quoted, not derived.
+generated: '2026-10-07'
+method: searched
+source: https://www.siena.cx/pricing
+sources:
+- https://www.siena.cx/pricing
+provenance:
+  tool: all/0-working/economics/harvest_pricing.py
+  run: 20261007T104522
+  grounding: every price_text was found verbatim in the fetched page text
+audience: business-product
+pricing_basis: per-call
+delivery:
+  delivery: managed
+  method: page
+  read: '2026-10-07'
+published: true
+note: Pricing page shows a $750/month platform fee plus $0.90 per automated ticket; full quotes require
+  a 'Get pricing' form.
+plan_count: 3
+currency: USD
+plans:
+- name: Platform fee
+  price_text: $750/month
+  price: 750
+  currency: USD
+  period: month
+  unit: platform access
+  included_quota: Siena's core AI engine and unlimited sandbox
+- name: Automation Pack
+  price_text: $0.90 each
+  price: 0.9
+  currency: USD
+  period: per-use
+  unit: automated ticket
+- name: Support & Implementation
+  price_text: Expert onboarding plus dedicated Slack support
+  period: none
